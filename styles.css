@@ -165,6 +165,11 @@ li::marker {
   font-weight: bolder;
 }
 
+.attribution {
+  text-align: center;
+  font-size: 0.875rem;
+}
+
 @media screen and (min-width: 376px) {
   .container {
     padding: 1rem;
